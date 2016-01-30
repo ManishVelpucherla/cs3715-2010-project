@@ -1,0 +1,1 @@
+Create a simple course registration system with Account creation Login and course registration.
